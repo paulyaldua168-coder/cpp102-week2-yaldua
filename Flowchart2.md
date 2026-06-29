@@ -7,4 +7,3 @@ flowchart TD
     E --> F[/DISPLAY average/]
     F --> G([END]
 ```
-    
